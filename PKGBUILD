@@ -1,3 +1,4 @@
+# Maintainer : Konrad Borowski <glitchmr@myopera.com>
 # CPAN Name  : MooseX-Types-Perl
 # Contributor: Caleb Cushing <xenoterracide@gmail.com>
 # Generator  : CPANPLUS::Dist::Arch 1.00
